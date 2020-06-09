@@ -1,4 +1,4 @@
-<img src="innovation-roadmap-2020-06" width="50%">
+<img src="innovation-roadmap-2020-06.png" width="50%">
 
 # Innovation portfolio
 
